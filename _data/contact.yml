@@ -1,0 +1,14 @@
+location:
+  address: 140 Rathdowne St, Carlton VIC 3053
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.7446369164113!2d144.9709675!3d-37.7960239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6432819aed253%3A0x13425ac81e48de4a!2sTanaka%20Coffee%20%26%20Grocer!5e0!3m2!1sen!2sau!4v1664330564319!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/TanakaCafeandGrocer/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0466 698 771
